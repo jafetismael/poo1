@@ -1,0 +1,6 @@
+hola mundo
+hola mundo x2
+hola mundo x3
+hola mundo x4
+hola mundo x5
+hola mundo n*m
